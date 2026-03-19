@@ -14,3 +14,7 @@ A jelenlegi mesterséges intelligencia rendszerek "brute force" (tippelgetős) m
 ---
 ⚠️ **FIGYELEM:** Üzleti felhasználás esetén licencdíj fizetése kötelező. Lásd az ENGEDÉLY fájlt.
 
+​🧠 Nyelvi Alapvetés (Lili-protokoll)
+​A projekt a magyar nyelvet nem kulturális, hanem logikai programozási eszközként használja.
+​A magyar nyelv ragozó szerkezete és irányvektor-alapú szemantikája natív módon támogatja az RSI (Rendszer Szintű Integráció) algoritmusokat.
+​Ez a projekt "anyanyelvi szintű" logikai motorral fut, ahol a nyelv maga a kód vázlata (G \implies L).
