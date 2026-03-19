@@ -1,0 +1,12 @@
+HIDÁSZ PROJEKT - LOGIKAI ALAPOK (v12.0_AUTO)
+
+Rendszer-Szintű Integráció (RSI) keretrendszer:
+1. Alapmodell: G = V/N 
+   (Fenntartható Egyensúly = Erőforrás-térfogat / Csomópontok)
+
+2. P=NP megoldási irány:
+   Nem brute force keresés. Irányvektor-alapú szűkítés a logikai térben.
+   A v12.0_AUTO kódstruktúra a változók közötti "híd" elven alapul.
+
+3. Programozási nyelv: Magyar (Lili-protokoll)
+   A magyar nyelv ragozása és irányvektoros logikája adja a kód vázát.
